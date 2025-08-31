@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+numpy
+supabase
+python-dotenv
+requests
+validators
+aiohttp
+aiofiles
+transformers
+torch
+
